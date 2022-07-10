@@ -1,0 +1,46 @@
+{
+    "type": "application",
+    "source-directories": [
+        "src"
+    ],
+    "elm-version": "0.19.1",
+    "dependencies": {
+        "direct": {
+            "1602/elm-feather": "2.3.5",
+            "AdrianRibao/elm-derberos-date": "1.2.3",
+            "NoRedInk/elm-json-decode-pipeline": "1.0.0",
+            "elm/browser": "1.0.2",
+            "elm/core": "1.0.5",
+            "elm/html": "1.0.0",
+            "elm/http": "2.0.0",
+            "elm/json": "1.1.3",
+            "elm/random": "1.0.0",
+            "elm/time": "1.0.0",
+            "elm/url": "1.0.0",
+            "elm-community/list-extra": "8.4.0",
+            "elm-explorations/test": "1.2.2",
+            "ianmackenzie/elm-units": "2.9.0",
+            "mdgriffith/elm-animator": "1.1.1",
+            "mdgriffith/elm-ui": "1.1.8",
+            "rluiten/elm-text-search": "5.1.0",
+            "rtfeldman/elm-iso8601-date-strings": "1.1.4"
+        },
+        "indirect": {
+            "avh4/elm-color": "1.0.0",
+            "elm/bytes": "1.0.8",
+            "elm/file": "1.0.5",
+            "elm/parser": "1.1.0",
+            "elm/regex": "1.0.0",
+            "elm/svg": "1.0.1",
+            "elm/virtual-dom": "1.0.2",
+            "rluiten/sparsevector": "1.0.3",
+            "rluiten/stemmer": "1.0.4",
+            "rluiten/trie": "2.1.0",
+            "rtfeldman/elm-hex": "1.0.0"
+        }
+    },
+    "test-dependencies": {
+        "direct": {},
+        "indirect": {}
+    }
+}
