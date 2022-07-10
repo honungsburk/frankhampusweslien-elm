@@ -1,6 +1,7 @@
-# fhw-app
+# frankhampusweslien.com
 
-This is the official app for the frankhampusweslien.com website.
+This is the official app for the [frankhampusweslien.com
+](https://www.frankhampusweslien.com/) website.
 It hosts my art and allows visitors to buy newly minted artworks.
 
 ## Dependencies

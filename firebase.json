@@ -1,0 +1,18 @@
+{
+  "hosting": {
+    "site": "frankhampusweslien-elm",
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "**/elm-stuff/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
